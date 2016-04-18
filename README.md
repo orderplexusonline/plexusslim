@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 TomcatHelloWorldApp Sample
 ==============
 
@@ -39,4 +38,3 @@ limitations under the License.
 ````
 =======
 # plexusslim
->>>>>>> c45b08f8cb67794e314d769574d96e5949e85767
