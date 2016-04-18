@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class SimpleServlet
  */
-@WebServlet("/SimpleServlet")
+@WebServlet("/bmi-calculator")
 public class SimpleServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
 
@@ -21,7 +21,7 @@ public class SimpleServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.setContentType("text/html");
-        response.getWriter().print("Hello Charles!");
+        response.getWriter().print("Plexus Slim Lafayette BMI Calculator");
     }
 
 }
