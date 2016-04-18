@@ -1,0 +1,9 @@
+applications:
+- path: target/TomcatHelloWorldApp.war
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: plexusslim
+  host: plexusslim
+  disk_quota: 1024M
+  buildpack: java_buildpack
