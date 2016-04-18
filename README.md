@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TomcatHelloWorldApp Sample
 ==============
 
@@ -36,3 +37,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ````
+=======
+# plexusslim
+>>>>>>> c45b08f8cb67794e314d769574d96e5949e85767
